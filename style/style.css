@@ -422,9 +422,11 @@ nav h3 {
     width: 1140px;
     height: 313px;
     border-radius: 16px;
-    background: rgba(0, 0, 0, 0.2);
     margin: 0 auto;
+    background-color:  rgba(0, 0, 0, 0.5);
     background-image: url(/image/handshake.jpg);
+    background-blend-mode: darken;
+    background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -432,6 +434,7 @@ nav h3 {
     gap: 40px;
     margin-bottom: 80px;
     margin-top: 100px;
+
 }
 
 .support-title {
