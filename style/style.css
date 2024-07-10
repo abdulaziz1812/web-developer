@@ -485,5 +485,7 @@ nav h3 {
 .ending-text-border {
     width: 1140px;
     height: 36px;
-    border: 2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
