@@ -102,6 +102,7 @@ nav h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 90px;
 }
 
 .web-development-container {
@@ -270,4 +271,59 @@ nav h3 {
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
+}
+
+/* My Inspiration Style  */
+.inspiration-container {
+    width: 1140px;
+    height: 775px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inspiration-text {
+    width: 852px;
+    height: 113px;
+}
+
+.inspiration-title {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.inspiration-description {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.video-container {
+    width: 1140px;
+    height: 614px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 151px;
+}
+
+.video-container iframe {
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+}
+
+/* My Current Target style  */
+.current-target {
+    width: 1140px;
+    height: 460px;
+    border: 2px solid red;
+    margin: 0 auto;
 }
