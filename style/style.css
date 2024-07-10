@@ -40,7 +40,7 @@ nav h3 {
 .banner-container {
     height: 652px;
     margin: 0 auto;
-    background-image: url(/image/hero-bg.png);
+    background-image: url(/image/bg.png);
 }
 
 .banner-content {
@@ -431,6 +431,7 @@ nav h3 {
     align-items: center;
     gap: 40px;
     margin-bottom: 80px;
+    margin-top: 100px;
 }
 
 .support-title {
