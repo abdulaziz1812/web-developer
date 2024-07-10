@@ -424,7 +424,7 @@ nav h3 {
     border-radius: 16px;
     margin: 0 auto;
     background-color:  rgba(0, 0, 0, 0.5);
-    background-image: url(/image/hand.jpg);
+    background-image: url(/image/hand.png);
     background-blend-mode: darken;
     background-position: center;
     display: flex;
